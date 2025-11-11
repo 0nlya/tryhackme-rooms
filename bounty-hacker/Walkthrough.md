@@ -1,6 +1,6 @@
 # Bounty Hacker — Walkthrough
 
-**Author:** Tiago D.  
+**Author:** Tiago Dias, Bertrand Achu, Mario Brunnsteiner
 **Room:** Bounty Hacker (TryHackMe)  
 **Goal:** Obtain the sensitive root file.
 
