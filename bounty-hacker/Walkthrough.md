@@ -21,7 +21,7 @@ Short chain: anonymous FTP → found password file → SSH login → sudo escala
 ## Recon
 **What I did:** port scan and service enumeration.
 
-![Port scan results](screenshots/recon-01.png)  
+![Port scan results](screenshots/01_nmap-scan_script-vuln.png)  
 *Figure 1 — Nmap scan showing open FTP, SSH and HTTP ports.*
 
 **Notes:** The FTP service was accessible anonymously which led to further discovery.
