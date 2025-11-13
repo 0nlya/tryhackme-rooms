@@ -1,7 +1,7 @@
-# MR ROBOT — Walkthrough
+# Mr Robot — Walkthrough
 
 **Author:** Tiago Dias  
-**Room:** MR ROBOT (TryHackMe)  
+**Room:** Mr Robot (TryHackMe)  
 **Goal:** Obtain the root flag and recover all key fragments.
 
 ---
