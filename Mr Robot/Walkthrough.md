@@ -125,7 +125,7 @@ Recon → Web enumeration → Hidden content discovery (`robots.txt`) → Decode
 # Included files
 
 - `screenshots/` — All screenshots.  
-- `README.md` — This walkthrough.
+- `Walkthrough.md` — This walkthrough.
 
 ---
 
